@@ -70,9 +70,10 @@ I take products from zero to production—fast. I specialize in shipping resilie
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tommyjah&show_icons=true&theme=tokyonight&hide_border=true" alt="Tommyjah's GitHub Stats" height="165" />
+  <img src="https://vercel.app" alt="Tommyjah's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommyjah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
+
 
 ---
 
