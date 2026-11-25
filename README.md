@@ -69,6 +69,8 @@ I take products from zero to production—fast. I specialize in shipping resilie
 
 ### 📫 Let's Build Together
 
-* **LinkedIn:** [linkedin.com/in/thomas-debebe](https://et.linkedin.com/in/thomas-debebe)
+* **LinkedIn:**
+* **Portfolio:** [thomas-portfolio-coral.vercel.app](https://vercel.app)
+ [linkedin.com/in/thomas-debebe](https://et.linkedin.com/in/thomas-debebe)
 * **GitHub:** [@Tommyjah](https://github.com/Tommyjah)
 * **Availability:** Open to remote **Product Engineer**, **Full-Stack AI Developer**, and **AI Automation Consultant** roles.
