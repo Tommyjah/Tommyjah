@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate Stats Card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
           options: username=Tommyjah&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true
@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=Tommyjah&layout=compact&theme=tokyonight&hide_border=true
