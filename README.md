@@ -67,18 +67,6 @@ I take products from zero to production—fast. I specialize in shipping resilie
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="./profile/stats.svg" alt="Tommyjah's GitHub Stats" height="165" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
-</p>
-
-
-
-
----
-
 ### 📫 Let's Build Together
 
 * **LinkedIn:** [linkedin.com/in/thomas-debebe](https://et.linkedin.com/in/thomas-debebe)
