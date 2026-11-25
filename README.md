@@ -71,8 +71,9 @@ I take products from zero to production—fast. I specialize in shipping resilie
 
 <p align="left">
   <img src="https://vercel.app" alt="Tommyjah's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommyjah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://vercel.app" alt="Top Languages" height="165" />
 </p>
+
 
 
 ---
